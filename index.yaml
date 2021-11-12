@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kubeflow:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-12T12:27:06.704037+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 98e04627957ca83732ddd5a280d9690b8a20fc95488c17724db402cd53611359
+    name: kubeflow
+    type: application
+    urls:
+    - kubeflow-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-12T12:27:06.668834+01:00"
